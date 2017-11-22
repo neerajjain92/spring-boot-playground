@@ -1,4 +1,6 @@
 # spring-boot-playground
+[![Build Status](https://travis-ci.org/neerajjain92/spring-boot-playground.svg?branch=master)](https://travis-ci.org/neerajjain92/spring-boot-playground)
+
 Application built with Angular and Spring Boot based Rest service.
   1) CRUD operation for  Drowned Ships.
   2) Using Flyway for Database migration
