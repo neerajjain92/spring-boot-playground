@@ -1,6 +1,8 @@
 # spring-boot-playground
 Application built with Angular and Spring Boot based Rest service.
 
+https://travis-ci.org/neerajjain92/spring-boot-playground.svg?branch=master
+
   1) CRUD operation for  Drowned Ships.
   2) Using Flyway for Database migration
   3) Using In memory H2 database for persistence.
